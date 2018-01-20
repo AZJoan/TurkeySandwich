@@ -10,9 +10,9 @@ package com.company;
 // or "LOWER" if the user's guess is larger than the random integer.
 // Also output the new range of eligible guesses.
 // When the user guesses the random integer, output a message that says so
-// DONE >>ADDED - and displays the number guesses it took to get to the right number.
+// >>ADDED - and displays the number guesses it took to get to the right number.
 // >>ADDED - Additionally, it should show what numbers the user guessed along the way.
-// DONE >>ADDED - Do not let user guess above max or below min
+// >>ADDED - Do not let user guess above max or below min
 
 
 import java.util.Random;
